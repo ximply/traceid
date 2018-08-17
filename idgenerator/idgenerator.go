@@ -10,7 +10,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ximply/test/traceid"
+	"github.com/ximply/traceid"
 )
 
 var (
